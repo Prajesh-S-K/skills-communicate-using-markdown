@@ -13,3 +13,23 @@ ___
 - Adding an image link
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+___
+
+### This is the Third Step :
+
+1. Code One :
+
+   ```
+   $ git init
+   Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+   ```
+
+2. Code Two :
+
+   ```
+   var myVar = "Hello, world!";
+   ```
+
+___
+
