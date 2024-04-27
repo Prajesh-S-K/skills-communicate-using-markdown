@@ -4,4 +4,12 @@ ___
 
 ### This is the first step :
 
-commiting the first change after merging two branches
+committing the first change after merging two branches
+
+___
+
+### This is the second Step :
+
+- Adding an image link
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
